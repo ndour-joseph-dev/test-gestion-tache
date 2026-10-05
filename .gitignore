@@ -1,0 +1,9 @@
+node_modules/
+dist/
+out/
+build/
+.env
+.env.*
+*.log
+.DS_Store
+.vscode/*.log
